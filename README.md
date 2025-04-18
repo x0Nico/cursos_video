@@ -1,21 +1,21 @@
-#Simple Cursos Video
+# Simple Cursos Video
 
-Esto es una api muy simple para probar el funcionamiento de express
+Esto es una api muy simple para probar el funcionamiento de expres
 
-## Comandos para instalar
+## Comandos para Instalar
 
-´´´´
+```
 npm i
-´´´´
+```
 
-## Comandos para correr la aplicacion en modo desarrolo
+## Comandos para corre la aplicion en modo desarrollo
 
-´´´´
-npm run dev
-´´´´
+```
+npm run desa
+```
 
-## Comandos para correr la aplicacion
+## Comandos para corre la aplicion
 
-´´´´
+```
 npm start
-´´´´
+```
